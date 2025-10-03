@@ -1,7 +1,4 @@
-Usar record ao inves de DTO
-Deixar de usar o autowired do spring
 call legacy procedure using jdbctemplate
 evitar dummy implementation
-gerar o rowmapper for record
 implemet logic to write each item using itemwriter / Implement batch update/insert logic for bc_pessoa and bc_pessoa_log_porte_cliente
 use select to call functions

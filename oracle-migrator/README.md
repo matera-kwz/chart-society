@@ -10,7 +10,8 @@ This project takes `.sql` artifacts and helps refactor them into Java classes us
 1. Install **Visual Studio Code**.
 2. Install the **GitHub Copilot** extension.
 3. Open this project folder in VS Code.
-4. Put the oracle-migrator.chatmode.md in ~/.config/Code/User/prompts
+5. Create symbolic link of file oracle-migrator.chatmode.md with command below:
+ln -s /home/${user}/dev/chart-society/oracle-migrator/chatmode/oracle-migrator.chatmode.md /home/${user}/.config/Code/User/prompts/
 
 ## Github Copilot CLI ##
 ## Requirements ##
